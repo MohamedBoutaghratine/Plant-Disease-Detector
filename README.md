@@ -2,6 +2,10 @@
 # Aperçu du Projet
 
 Ce projet vise à développer un outil automatisé pour la détection des maladies des plantes à partir d'images de feuilles. En tirant parti des avancées récentes dans les réseaux de neurones convolutifs (CNN), nous avons conçu un modèle capable de classer avec précision l'état de santé de diverses plantes.
+<p align="center">
+  <img src="images/Test_3.jpg" alt="Aperçu du modèle 1" width="300"/>
+  <img src="images/Test_4.jpg" alt="Aperçu du modèle 2" width="300"/>
+</p>
 
 ## Énoncé du Problème et Objectifs du Projet
 
